@@ -38,6 +38,9 @@ Attia, A., Govind, A., Qureshi, A.S., Feike, T., Rizk, M.S., Shabana, M.M.A., & 
 Paper link:
 https://www.mdpi.com/2073-4441/14/22/3647
 
+Attia, A., El-Hendawy, S., Al-Suhaibani, N., Tahir, M.U., Mubushar, M., Vianna, M.S., Ullah, H., Mansour, E., Datta, A., 2021. **Sensitivity of the DSSAT model in simulating maize yield and soil carbon dynamics in arid Mediterranean climate: Effect of soil, genotype and crop management.** Field Crops Res. 260:107981. doi.org/10.1016/j.fcr.2020.107981
+
+
 ---
 
 ## Workflow summary (high level)
