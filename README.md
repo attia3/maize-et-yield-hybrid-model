@@ -57,7 +57,7 @@ Attia, A., El-Hendawy, S., Al-Suhaibani, N., Tahir, M.U., Mubushar, M., Vianna, 
 
 ---
 
-## Key “skills signal” (for hiring)
+## Key “skills signal” 
 - Crop modeling: CERES-Maize calibration, evaluation, and scenario simulation design
 - Data engineering: large factorial simulation management and feature table construction
 - ML: model development (linear + tree), Bayesian hyperparameter optimization (Hyperopt)
@@ -66,7 +66,7 @@ Attia, A., El-Hendawy, S., Al-Suhaibani, N., Tahir, M.U., Mubushar, M., Vianna, 
 
 ---
 
-## What is intentionally NOT included
+## What is NOT included
 - DSSAT executables/binaries (install separately).
 - Full experiment templates and site-specific proprietary inputs.
 - The full generated 1.5M+ scenario dataset (size + reproducibility constraints).
