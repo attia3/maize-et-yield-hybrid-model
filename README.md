@@ -57,7 +57,7 @@ Attia, A., El-Hendawy, S., Al-Suhaibani, N., Tahir, M.U., Mubushar, M., Vianna, 
 
 ---
 
-## Key “skills signal” 
+## Key features
 - Crop modeling: CERES-Maize calibration, evaluation, and scenario simulation design
 - Data engineering: large factorial simulation management and feature table construction
 - ML: model development (linear + tree), Bayesian hyperparameter optimization (Hyperopt)
